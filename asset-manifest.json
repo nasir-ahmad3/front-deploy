@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd10a014.css",
+    "main.js": "/static/js/main.db7a9b36.js",
+    "static/media/about.png": "/static/media/about.d91aac60de40d94b63c1.png",
+    "static/media/Pangram-ExtraBold.otf": "/static/media/Pangram-ExtraBold.f08b2422d708b45f17fe.otf",
+    "static/media/Pangram-Light.otf": "/static/media/Pangram-Light.fd72ed3df65b680df230.otf",
+    "static/media/Pangram-Medium.otf": "/static/media/Pangram-Medium.a8580b7adf5a606cfe9e.otf",
+    "index.html": "/index.html",
+    "main.fd10a014.css.map": "/static/css/main.fd10a014.css.map",
+    "main.db7a9b36.js.map": "/static/js/main.db7a9b36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd10a014.css",
+    "static/js/main.db7a9b36.js"
+  ]
+}
